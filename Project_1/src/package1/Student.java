@@ -5,7 +5,7 @@ public class Student
 int a;
 public void rishu()
 {
-	System.out.println("Welcome to all of you");
+	System.out.println("Welcome to all of you & Changes done");
 }
 public static void main(String[] args) 
 {
